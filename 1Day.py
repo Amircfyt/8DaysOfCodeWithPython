@@ -16,3 +16,4 @@ print("Your band name could be " + city + " " + pet_name)
 
 # 5. Make sure the input cursor shows on a new line, see the example at:
 print("\n")
+#amircf
